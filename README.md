@@ -1,7 +1,7 @@
 # My-Cpp-Projects
 These are some applications done with cpp which hopefully marks enough proficiency with the core language.
 
-The youtube links for the showcase of my jam projects:
+The youtube links for the showcase of my jam projects. In both projects, my contribution was as an AI programmer:
 
 -Cursed Mountain
 https://www.youtube.com/watch?v=PkeTrq9B_lI
